@@ -66,7 +66,7 @@ Together, these institutions aim to address the semiconductor workforce skill ga
 ---
 
 ## License
-
+MIT License
 
 
 ---
