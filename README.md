@@ -23,35 +23,35 @@ Each game in the PICABOO suite targets a specific hardware concept and involves 
 ### 🕹️ Game 1: Convert and Conquer
 - **Concepts**: Binary & Decimal number systems, conversion techniques
 - **Activity**: Students convert decimal numbers to binary using switches, and results are verified using a seven-segment display.
-- **Learning Outcome**: Reinforces understanding of binary encoding and hardware inputs:contentReference[oaicite:0]{index=0}.
+- **Learning Outcome**: Reinforces understanding of binary encoding and hardware inputs.
 
 ---
 
 ### 🧠 Game 2: The Gate Escape
 - **Concepts**: Boolean Logic, Combinational Circuits
 - **Activity**: Responder teams reverse-engineer circuits using input-output patterns from LED indicators.
-- **Learning Outcome**: Enhances circuit analysis and truth-table construction skills:contentReference[oaicite:1]{index=1}.
+- **Learning Outcome**: Enhances circuit analysis and truth-table construction skills.
 
 ---
 
 ### 🔁 Game 3: Con-Sequence
 - **Concepts**: Sequential Circuits, FSM Design
 - **Activity**: Challenger team maps FSM with a hidden state; responders try to reach that state by guessing inputs.
-- **Learning Outcome**: Builds intuition for state transitions and programmable logic mapping on FPGA:contentReference[oaicite:2]{index=2}.
+- **Learning Outcome**: Builds intuition for state transitions and programmable logic mapping on FPGA.
 
 ---
 
 ### 💾 Game 4: Store and Score
 - **Concepts**: Memory Read/Write, Volatile vs Non-Volatile Storage
 - **Activity**: Teams design FSMs to write data to memory and decode it from SSDs, exploring data persistence.
-- **Learning Outcome**: Demonstrates memory architecture and control sequencing:contentReference[oaicite:3]{index=3}.
+- **Learning Outcome**: Demonstrates memory architecture and control sequencing.
 
 ---
 
 ### 🧮 Game 5: Control and Compute
 - **Concepts**: ALU, Low-Level Instruction Execution
 - **Activity**: Teams collaboratively design and build a simple processor capable of executing basic instructions.
-- **Learning Outcome**: Integrates ALU, control logic, and memory for full-system perspective:contentReference[oaicite:4]{index=4}.
+- **Learning Outcome**: Integrates ALU, control logic, and memory for full-system perspective.
 ---
 
 ## NSF & University Collaborations
